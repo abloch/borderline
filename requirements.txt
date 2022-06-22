@@ -20,7 +20,7 @@ llvmlite==0.33.0
 lockfile==0.12.2
 matplotlib==3.2.1
 msgpack==0.6.2
-numpy==1.18.5
+numpy==1.22.0
 opencv-python==4.2.0.34
 packaging==20.3
 parso==0.7.0
